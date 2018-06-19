@@ -1235,6 +1235,7 @@ section .headline
 /** 10. Section --> Clients
 *******************************************************************/
 
+
 #clients .client-feedback
 {
     padding-top: 2rem;
@@ -1267,6 +1268,13 @@ section .headline
 
 /** 11. Section --> Contact
 *******************************************************************/
+#contact{
+    background-image:url("../img/amazonBox.jpg");
+}
+
+#contact-title{
+    color:#fff;
+}
 
 #contact .contact-list
 {
